@@ -1,0 +1,1 @@
+# exemplo_vector_image_search
