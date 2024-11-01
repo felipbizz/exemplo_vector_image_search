@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "estudo-vector-search"
+version = "0.1.0"
+description = ""
+authors = ["felipbizz <felipbizz@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.*"
+streamlit = "^1.37.1"
+duckdb = "^1.0.0"
+matplotlib = "^3.9.1.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
